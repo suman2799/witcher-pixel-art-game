@@ -4,7 +4,7 @@ A Java Swing Based Pixel Art Game. It uses Java Swing Libraries. Used ```The Wit
 
 ## Installing
 
-* [IMPORTANT] Requires Java SE Development Kit 17.0.4.1 or higher ```https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html```.
+* [IMPORTANT] Requires Java SE Development Kit 17.0.4.1 or higher https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html.
 * Download the Repository files into your local machine and open either ```Witcher.jar``` or ```Witcher.exe```.
 * To play, just open either one of the above.
 
