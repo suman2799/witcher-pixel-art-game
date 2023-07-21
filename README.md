@@ -8,6 +8,10 @@ A Java Swing Based Pixel Art Game. It uses Java Swing Libraries. Used ```The Wit
 * Download the Repository files into your local machine and open either ```Witcher.jar``` or ```Witcher.exe```.
 * To play, just open either one of the above.
 
+## Gameplay
+
+![Gameplay](https://github.com/suman2799/witcher-pixel-art-game/assets/87803503/503c15f1-acb2-4916-ba9c-21a3097534fd)
+
 ## Screenshots
 
 * Main Menu Options :
